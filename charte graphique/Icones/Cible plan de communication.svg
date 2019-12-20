@@ -1,0 +1,39 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 762 527">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c69c6d;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+
+      .cls-3 {
+        font-size: 48px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>Cible plan de communication</title>
+  <ellipse class="cls-1" cx="381" cy="263.5" rx="381" ry="263.5"/>
+  <ellipse class="cls-2" cx="438.5" cy="179.5" rx="187.5" ry="143.5"/>
+  <text class="cls-3" transform="translate(301.25 186.29)"><tspan class="cls-4">C</tspan><tspan x="27.31" y="0">oeur de cible</tspan></text>
+  <text class="cls-3" transform="translate(172.27 414.57)"><tspan class="cls-5">C</tspan><tspan x="27.7" y="0">ible p</tspan><tspan class="cls-6" x="139.1" y="0">r</tspan><tspan class="cls-7" x="154.99" y="0">incipale</tspan></text>
+</svg>

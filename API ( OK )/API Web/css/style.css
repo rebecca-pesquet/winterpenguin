@@ -1,0 +1,109 @@
+body {
+    background-image: url("pluie.jpg");
+    min-height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    color: white;
+}
+
+
+/* background color on top of bg image*/
+
+.hero {
+    position: absolute;
+    min-height: 100vh;
+    min-width: 100vw;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(31, 34, 118, 0.5);
+    z-index: -5;
+}
+
+
+/* navbar */
+
+.navbar {
+    background-color: rgb(69, 106, 171);
+}
+
+.navbar a {
+    color: white;
+    font-size: 25px;
+}
+
+
+/* weather section */
+
+.weather {
+    border: 1px solid white;
+    margin-top: 1rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+    color: white;
+}
+
+.weather-head {
+    height: 50%;
+}
+
+#icon-desc {
+    font-size: 5rem;
+    padding-top: 2.5rem;
+}
+
+.humidity,
+.wind,
+.visibility {
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    font-size: 17px;
+}
+
+
+}
+#description {
+    font-size: 23px;
+    margin-top: 45px;
+}
+#temperature {
+    margin-bottom: -8px;
+    font-size: 6rem;
+}
+#icon-thermometer {
+    font-size: 5rem;
+}
+#humidity,
+#wind,
+#visibility {
+    font-size: 20px;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.wi {
+    margin-top: 4px;
+}
+display: inline-block;
+font-family: weathericons;
+font-style: normal;
+font-weight: 400;
+line-height: 3;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+
+}
+p {
+    margin-top: 6em;
+    margin-bottom: 0rem;
+    font-size: 26px;
+}
+.fa {
+    margin-top: 6px;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
